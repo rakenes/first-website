@@ -30,6 +30,7 @@ p {
 }
 
 section {
+
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -39,8 +40,9 @@ section {
 }
 
 section.home {
+
 flex-direction: row;
-margin-top: 0;
+margin-top: 15vmax;
 
 }
 /* BUTTON*/
