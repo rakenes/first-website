@@ -36,13 +36,13 @@ section {
   height: 100vh;
   align-items: center;
   padding: 100px;
-  margin-top: 60px;
+  margin-top: 20vh;
 }
 
 section.home {
 
 flex-direction: row;
-margin-top: 25vh;
+
 
 }
 /* BUTTON*/
